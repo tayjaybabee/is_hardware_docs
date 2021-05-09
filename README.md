@@ -1,7 +1,7 @@
 ESP32 DevKit V1
 
 # Pinout
-![44e4a0892d30632a61810a165d4b8823.png](../_resources/c28376409f0f4ffb9e2d91d98dbc9c60.png)
+![44e4a0892d30632a61810a165d4b8823.png](https://github.com/tayjaybabee/is_hardware_docs/blob/main/_resources/c28376409f0f4ffb9e2d91d98dbc9c60.png?raw=true)
 
 # Doc Links
 
