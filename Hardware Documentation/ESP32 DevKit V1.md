@@ -28,14 +28,15 @@ ESP32 DevKit V1
 
 The following GPIO pins are used to configure the bootloader or manipulate the flashing mode of the ESP32[^1].
 
-|  Pin | Required Boot State |
-| ---: | :-----------------: |
-|    0 |         N/A         |
-|    2 |         N/A         |
-|    4 |         N/A         |
-|    5 |        HIGH         |
-|   12 |         LOW         |
-|   15 |        HIGH         |
-|      |                     |
+| Pin | Required Boot State |
+| ---:| :---:               |
+| 0   | N/A                 |
+| 2   | N/A                 |
+| 4   | N/A                 |
+| 5   | HIGH                |
+| 12  | LOW                 |
+| 15  | HIGH                |
+|||
 
-[^1]: > **Note**:<br>if you are using the [Arduino IDE](https://www.arduino.cc/en/software) you don't need to worry about initializing these pins.
+[^1]: > **Note**:<br>
+      > If you are using the [Arduino IDE](https://www.arduino.cc/en/software) you don't need to worry about initializing these pins.
