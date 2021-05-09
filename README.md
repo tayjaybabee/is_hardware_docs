@@ -26,7 +26,7 @@ ESP32 DevKit V1
 
 ## Strapping GPIO Pins
 
-The following GPIO pins are used to configure the bootloader or manipulate the flashing mode of the ESP32[^1].
+The following GPIO pins are used to configure the bootloader or manipulate the flashing mode of the ESP32.
 
 |  Pin | Required Boot State |
 | ---: | :-----------------: |
@@ -38,4 +38,5 @@ The following GPIO pins are used to configure the bootloader or manipulate the f
 |   15 |        HIGH         |
 |      |                     |
 
-[^1]: > **Note**:<br>if you are using the [Arduino IDE](https://www.arduino.cc/en/software) you don't need to worry about initializing these pins.
+> **Note**: 
+>   <br>if you are using the [Arduino IDE](https://www.arduino.cc/en/software) you don't need to worry about initializing these pins.
